@@ -1,5 +1,6 @@
 # File & Folder Migration Tool
-### Automating File Management for Teams & Individuals
+
+A Python automation tool that organizes and moves files or folders using customizable rules, turning hours of manual sorting into seconds while helping individuals and teams save time and reduce clutter.
 
 ## 🎯 The Problem
 
@@ -73,14 +74,14 @@ A production-ready Python application that demonstrates **software engineering b
 
 ## ⚡ Key Features
 
-✅ **Pattern Matching** - Filter by name (start, end, contains anywhere)  
-✅ **Multiple File Types** - Process PDFs, images, documents, spreadsheets  
-✅ **Size-Based Sorting** - Separate large files automatically  
-✅ **Folder Migration** - Move entire directory structures  
-✅ **Combination Mode** - Process files AND folders simultaneously  
-✅ **Safety First** - Dry-run preview, duplicate detection, error handling  
-✅ **Detailed Logging** - Track every operation for auditing  
-✅ **Copy or Move** - Non-destructive options available
+- 🎯 **Pattern Matching**: Filter by name (start, end, anywhere in name)
+- 📁 **File & Folder Support**: Migrate files, folders, or both simultaneously
+- 🔍 **Multiple Criteria**: Combine name patterns, file types, and size filters
+- 🔄 **Flexible Operations**: Copy or move files/folders
+- 👀 **Safe Preview**: Dry-run mode to preview changes before executing
+- 📊 **Detailed Logging**: Track all operations with comprehensive logs
+- 🚀 **No Dependencies**: Uses Python standard library only
+- 💻 **Cross-Platform**: Works on Windows, macOS, and Linux
 
 ## 📈 Proof of Results
 
@@ -119,14 +120,6 @@ A production-ready Python application that demonstrates **software engineering b
 - **Risk Management:** Built-in safety features and validation
 - **Communication:** Clear documentation for diverse audiences
 - **Project Management:** End-to-end development from concept to deployment
-
-### **Roles This Demonstrates**
-✅ Software Engineer / Developer  
-✅ Automation Engineer  
-✅ DevOps Engineer (workflow automation)  
-✅ Solutions Architect (system design)  
-✅ Technical Lead (best practices, code quality)  
-✅ Product Developer (user-focused features)
 
 ## 🚀 Quick Start
 
