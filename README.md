@@ -45,33 +45,6 @@ A production-ready Python application that demonstrates **software engineering b
 
 **Built with:** Python 3.6+, following industry standards for production code.
 
-## 💼 Business Use Cases
-
-### 1. **Marketing Agencies**
-*Challenge:* Managing client deliverables, drafts, and finals across multiple projects  
-*Solution:* Auto-sort by client name, file type, and version status  
-*Impact:* 70% reduction in file organization time
-
-### 2. **Legal Firms**
-*Challenge:* Organizing case files, documents by year, and large PDF archives  
-*Solution:* Filter by date patterns, document types, and size thresholds  
-*Impact:* Improved compliance and faster document retrieval
-
-### 3. **Photography Studios**
-*Challenge:* Sorting RAW files, edited photos, and client deliverables  
-*Solution:* Separate by file type and size (RAW files > 20MB)  
-*Impact:* Streamlined workflow, faster client delivery
-
-### 4. **Software Development Teams**
-*Challenge:* Archiving old code versions, managing project folders  
-*Solution:* Pattern-based organization (e.g., all "_backup" or "_old" files)  
-*Impact:* Cleaner repositories, easier code maintenance
-
-### 5. **Financial Services**
-*Challenge:* Quarterly report organization, archiving historical data  
-*Solution:* Date-based filtering and automated folder migration  
-*Impact:* Audit-ready file structure, 80% faster compliance checks
-
 ## ⚡ Key Features
 
 - 🎯 **Pattern Matching**: Filter by name (start, end, anywhere in name)
@@ -91,34 +64,38 @@ A production-ready Python application that demonstrates **software engineering b
 - 🔒 **Safety:** Zero data loss across 50,000+ test operations
 - 📊 **Scale:** Successfully tested with 100,000+ files
 
-### User Impact
-> *"This tool saved our team 15 hours per week. What used to take an entire afternoon now takes 2 minutes."*  
-> — Project Manager, Digital Marketing Agency
+## 💼 Use Cases
+
+#### General Productivity Benefits
+- Reduce repetitive manual file sorting
+- Standardize folder structures across teams
+- Minimize duplicate files and errors
+- Improve document retrieval speed
+- Save hours of administrative time
+- Maintain cleaner, audit-ready directories
+
+#### Industries
+- **Marketing Agencies** – Automatically sort campaign assets, client deliverables, and reports by project or date.
+- **Legal Firms** – Organize case files, contracts, and archived documents with rule-based precision.
+- **Photography Studios** – Separate RAW files, edited images, and client folders in seconds.
+- **Software Development Teams** – Archive old versions, backups, and project folders efficiently.
+- **Data & Analytics Teams** – Automatically organize datasets, reports, exports, and versioned files for cleaner workflows.
+- **Administrative Roles** – Streamline document management, backups, and shared drive organization with minimal manual effort.
+- **Healthcare** – Organize patient documents, reports, and departmental records securely and efficiently.
 
 ## 🎓 Roles & Skills Demonstrated
 
-### **Technical Skills**
-- **Python Programming:** Advanced features (OOP, type hints, pathlib, logging)
-- **Software Architecture:** Modular design, separation of concerns
-- **Cross-Platform Development:** Windows, macOS, Linux compatibility
-- **Error Handling:** Robust exception management and recovery
-- **Testing & Validation:** Dry-run modes, comprehensive logging
-- **CLI Development:** Argument parsing, user-friendly interfaces
-- **Documentation:** Technical docs + user guides for all skill levels
-
-### **Business & Soft Skills**
-- **Problem Solving:** Identified real pain point and built solution
-- **User-Centric Design:** Created for both technical and non-technical users
-- **Process Automation:** Transformed manual workflows into automated systems
-- **Risk Management:** Built-in safety features and validation
-- **Communication:** Clear documentation for diverse audiences
-- **Project Management:** End-to-end development from concept to deployment
+- **Automation & Process Optimization** – Identified an example of a manual inefficiency and engineered a scalable solution that transforms hours of repetitive work into seconds.
+- **System Design & Architecture Thinking** – Built a flexible, rule-based engine capable of handling multiple filtering conditions, edge cases, and real-world scenarios.
+- **Robust Error Handling & Defensive Programming** – Implemented duplicate detection, permission safeguards, logging, and dry-run previews to minimize operational risk.
+- **Clear Communication & Documentation** – Produced structured documentation, intuitive usage guides, and well-defined configurations to ensure usability for both technical and non-technical users.
+- **Cross-Platform Engineering & Scalability** – Developed a portable solution compatible across operating systems without external dependencies.
 
 ## 🚀 Quick Start
 
 ### For Non-Technical Users
 1. **Install Python** ([Download here](https://www.python.org/downloads/))
-2. **Download the script** from this repository
+2. **Download the script** from this repository and store it in a desired folder
 3. **Double-click to run** or use simple commands
 
 **Example (drag-and-drop friendly):**
