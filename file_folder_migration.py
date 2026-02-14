@@ -89,24 +89,26 @@ DEFAULT_DESTINATION = "/path/to/destination/folder"
 #
 FILES_TO_MIGRATE = None  # Set to None to disable, or use dict with filters (like above)
 
-# Example configurations (uncomment to use):
-# FILES_TO_MIGRATE = {
-#     "name_pattern": "_1",   # Pattern(s) to match in filename
-#                             # - Single: "_1" or ["_1"]
-#                             # - Multiple: ["_1", "_2", "_draft"]
-#                             # - Starts with: "^Report", "^Summary"
-#                             # - Ends with: "_1$", "_draft$" (or just "_1", "_draft")
-#                             # - Contains anywhere: "*2024*", "*invoice*"
-#                             # - None: Don't filter by name
-#     
-#     "file_type": None,      # File extension(s) to match
-#                             # - Single: ".pdf" or [".pdf"]
-#                             # - Multiple: [".pdf", ".jpg", ".xlsx"]
-#                             # - None: Don't filter by type
-#     
-#     "min_size_mb": None,    # Minimum file size in MB (None = no minimum)
-#     "max_size_mb": None     # Maximum file size in MB (None = no maximum)
-# }
+# Example configurations (undocstring to use):
+"""
+FILES_TO_MIGRATE = {
+    "name_pattern": "_1",               # Pattern(s) to match in filename
+                                        # - Single: "_1" or ["_1"]
+                                        # - Multiple: ["_1", "_2", "_draft"]
+                                        # - Starts with: "^Report", "^Summary"
+                                        # - Ends with: "_1$", "_draft$" (or just "_1", "_draft")
+                                        # - Contains anywhere: "*2024*", "*invoice*"
+                                        # - None: Don't filter by name
+     
+    "file_type": None,                  # File extension(s) to match
+                                        # - Single: ".pdf" or [".pdf"]
+                                        # - Multiple: [".pdf", ".jpg", ".xlsx"]
+                                        # - None: Don't filter by type
+     
+    "min_size_mb": None,                # Minimum file size in MB (None = no minimum)
+    "max_size_mb": None                 # Maximum file size in MB (None = no maximum)
+}
+"""
 
 # ============================================
 # FOLDER MIGRATION SETTINGS
@@ -160,24 +162,26 @@ FILES_TO_MIGRATE = None  # Set to None to disable, or use dict with filters (lik
 #
 FOLDERS_TO_MIGRATE = None  # Set to None to disable, or use dict with filters (like above)
 
-# Example configurations (uncomment to use):
-# FOLDERS_TO_MIGRATE = {
-#     "name_pattern": None,   # Pattern(s) to match in folder name
-#                             # - Single: "Archive" or ["Archive"]
-#                             # - Multiple: ["Archive", "Backup", "OldData"]
-#                             # - Starts with: "^Project", "^2024"
-#                             # - Ends with: "Backup$", "Archive$"
-#                             # - Contains anywhere: "*Old*", "*2024*"
-#                             # - None: Don't filter by name
-#     
-#     "file_type": None,      # File type(s) that folder must contain
-#                             # - Single: ".pdf" or [".pdf"]
-#                             # - Multiple: [".pdf", ".docx", ".jpg"]
-#                             # - None: Don't filter by content
-#     
-#     "min_size_mb": None,    # Minimum folder size in MB (None = no minimum)
-#     "max_size_mb": None     # Maximum folder size in MB (None = no maximum)
-# }
+# Example configurations (undocstring to use):
+"""
+FOLDERS_TO_MIGRATE = {
+    "name_pattern": "Archive",      # Pattern(s) to match in folder name
+                                    # - Single: "Archive" or ["Archive"]
+                                    # - Multiple: ["Archive", "Backup", "OldData"]
+                                    # - Starts with: "^Project", "^2024"
+                                    # - Ends with: "Backup$", "Archive$"
+                                    # - Contains anywhere: "*Old*", "*2024*"
+                                    # - None: Don't filter by name
+     
+     "file_type": None,             # File type(s) that folder must contain
+                                    # - Single: ".pdf" or [".pdf"]
+                                    # - Multiple: [".pdf", ".docx", ".jpg"]
+                                    # - None: Don't filter by content
+     
+     "min_size_mb": None,           # Minimum folder size in MB (None = no minimum)
+     "max_size_mb": None            # Maximum folder size in MB (None = no maximum)
+}
+"""
 
 # ============================================
 # COMBINATION MODE
