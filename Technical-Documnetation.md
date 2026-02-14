@@ -4,17 +4,6 @@
 
 ---
 
-## Features
-
-- 🎯 **Pattern Matching**: Filter by name (start, end, anywhere in name)
-- 📁 **File & Folder Support**: Migrate files, folders, or both simultaneously
-- 🔍 **Multiple Criteria**: Combine name patterns, file types, and size filters
-- 🔄 **Flexible Operations**: Copy or move files/folders
-- 👀 **Safe Preview**: Dry-run mode to preview changes before executing
-- 📊 **Detailed Logging**: Track all operations with comprehensive logs
-- 🚀 **No Dependencies**: Uses Python standard library only
-- 💻 **Cross-Platform**: Works on Windows, macOS, and Linux
-
 ## 🚀 Quick Start
 
 ### Prerequisites
