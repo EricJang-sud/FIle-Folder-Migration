@@ -15,7 +15,7 @@
 - 🚀 **No Dependencies**: Uses Python standard library only
 - 💻 **Cross-Platform**: Works on Windows, macOS, and Linux
 
-## Quick Start
+## 🚀 Quick Start
 
 ### Prerequisites
 
@@ -160,7 +160,7 @@ python3 file_folder_migration.py ~/Downloads ~/Sorted -t ".pdf" --dry-run
 **Note:** You can use `~` as shorthand for your home directory
 </details>
 
-## Pattern Syntax
+## 🔤 Pattern Syntax
 
 | Syntax | Meaning | Example | Matches |
 |--------|---------|---------|---------|
@@ -169,7 +169,7 @@ python3 file_folder_migration.py ~/Downloads ~/Sorted -t ".pdf" --dry-run
 | `*pattern*` | Contains | `*2024*` | file_2024_v1.pdf |
 | `pattern` | Ends with (default) | `_1` | document_1.pdf |
 
-## Usage Examples
+## 🧪 Usage Examples
 
 ### Files Only
 
@@ -316,7 +316,7 @@ python file_folder_migration.py /source /dest -p "_1" --folder-pattern "^Project
 python file_folder_migration.py /source /dest -p "*2024*" --folder-pattern "*2024*"
 ```
 
-## Configuration File
+## ⚙️ Configuration File
 
 Edit the script to set default behaviors (works the same on all platforms):
 
@@ -379,7 +379,7 @@ Then run without arguments:
 **Windows:** `python file_folder_migration.py`  
 **macOS/Linux:** `python3 file_folder_migration.py`
 
-## Command Line Options
+## 🖥️ Command Line Options
 
 ### File Filters
 | Option | Description |
@@ -405,7 +405,7 @@ Then run without arguments:
 | `-v`, `--verbose` | Enable verbose logging |
 | `--log FILE` | Save log to file |
 
-## Real-World Use Cases
+## 🌍 Real-World Use Cases
 
 ### 📸 Photo Organization
 
@@ -559,7 +559,7 @@ python3 file_folder_migration.py ~/Data ~/Backup --folder-pattern "*Important*" 
 ```
 </details>
 
-## Platform-Specific Notes
+## 🖥️ Platform-Specific Notes
 
 ### 🪟 Windows
 - Use backslashes `\` or forward slashes `/` in paths
@@ -579,7 +579,7 @@ python3 file_folder_migration.py ~/Data ~/Backup --folder-pattern "*Important*" 
 - Python 3 command is `python3` (not `python`)
 - Use `sudo` if moving system files (not recommended for personal files)
 
-## Safety Features
+## 🛡️ Safety Features
 
 - ✅ **Dry-run mode**: Preview all operations before executing
 - ✅ **Duplicate detection**: Skips files/folders that already exist
@@ -587,7 +587,7 @@ python3 file_folder_migration.py ~/Data ~/Backup --folder-pattern "*Important*" 
 - ✅ **Detailed logging**: Track every operation
 - ✅ **Auto-create directories**: Creates destination if it doesn't exist
 
-## Troubleshooting
+## 🛠️ Troubleshooting
 
 <details>
 <summary><b>Nothing happens when I run the script</b></summary>
