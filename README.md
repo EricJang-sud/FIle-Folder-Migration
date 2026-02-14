@@ -1,8 +1,6 @@
 # File & Folder Migration Tool
 ### Automating File Management for Teams & Individuals
 
----
-
 ## 🎯 The Problem
 
 Sarah, a project manager at a marketing agency, spent **3 hours every Friday** manually organizing client files. She had to:
@@ -13,7 +11,6 @@ Sarah, a project manager at a marketing agency, spent **3 hours every Friday** m
 
 **The result?** Frustrated team members, delayed deliverables, and wasted time on repetitive tasks.
 
----
 
 ## ✅ The Solution
 
@@ -23,8 +20,6 @@ A smart Python script that automatically organizes files and folders based on **
 1. Set your criteria (file names, types, sizes, folder names)
 2. Preview changes before applying (safety first!)
 3. Execute in seconds what used to take hours
-
----
 
 ## 📊 Impact: Before vs After
 
@@ -37,8 +32,6 @@ A smart Python script that automatically organizes files and folders based on **
 
 **Real impact:** Sarah now spends those 3 hours on strategic work, not file management.
 
----
-
 ## 🛠️ About The Tool
 
 A production-ready Python application that demonstrates **software engineering best practices**:
@@ -50,8 +43,6 @@ A production-ready Python application that demonstrates **software engineering b
 - **Zero dependencies**: Uses Python standard library only
 
 **Built with:** Python 3.6+, following industry standards for production code.
-
----
 
 ## 💼 Business Use Cases
 
@@ -80,8 +71,6 @@ A production-ready Python application that demonstrates **software engineering b
 *Solution:* Date-based filtering and automated folder migration  
 *Impact:* Audit-ready file structure, 80% faster compliance checks
 
----
-
 ## ⚡ Key Features
 
 ✅ **Pattern Matching** - Filter by name (start, end, contains anywhere)  
@@ -92,8 +81,6 @@ A production-ready Python application that demonstrates **software engineering b
 ✅ **Safety First** - Dry-run preview, duplicate detection, error handling  
 ✅ **Detailed Logging** - Track every operation for auditing  
 ✅ **Copy or Move** - Non-destructive options available
-
----
 
 ## 📈 Proof of Results
 
@@ -113,8 +100,6 @@ A production-ready Python application that demonstrates **software engineering b
 ### User Impact
 > *"This tool saved our team 15 hours per week. What used to take an entire afternoon now takes 2 minutes."*  
 > — Project Manager, Digital Marketing Agency
-
----
 
 ## 🎓 Roles & Skills Demonstrated
 
@@ -142,8 +127,6 @@ A production-ready Python application that demonstrates **software engineering b
 ✅ Solutions Architect (system design)  
 ✅ Technical Lead (best practices, code quality)  
 ✅ Product Developer (user-focused features)
-
----
 
 ## 🚀 Quick Start
 
