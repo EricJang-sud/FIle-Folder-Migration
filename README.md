@@ -93,18 +93,6 @@ A Python automation tool that organizes and moves files or folders using customi
 4. Run the script using the Command Line Interface.
 5. Watch your files and folders automatically organize in seconds.  
 
-**Code example**
-
-```bash
-
-# Add --dry-run to preview changes before executing
-python file_folder_migration.py "C:\Source" "C:\Destination" -t ".pdf" --dry-run
-
-# execute the Python script when you're ready
-python file_folder_migration.py "C:\Source" "C:\Destination" -t ".pdf"
-
-```
-
 *Full setup instructions are available in [Technical Documentation](Technical-Documentation.md).*
 
 ---
