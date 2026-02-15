@@ -82,8 +82,8 @@ A Python automation tool that organizes and moves files or folders using customi
 - ⚡ **Automation & Process Optimization** – Identified an example of a manual inefficiency and engineered a scalable solution that transforms hours of repetitive work into seconds.
 - 🏗️ **System Design & Architecture Thinking** – Built a flexible, rule-based engine capable of handling multiple filtering conditions, edge cases, and real-world scenarios.
 - 🛡️ **Robust Error Handling & Defensive Programming** – Implemented duplicate detection, permission safeguards, logging, and dry-run previews to minimize operational risk.
-- 📘 **Clear Communication & Documentation** – Produced structured documentation, intuitive usage guides, and well-defined configurations to ensure usability for both technical and non-technical users.
-- 🌍 **Cross-Platform Engineering & Scalability** – Developed a portable solution compatible across operating systems without external dependencies.
+- 📘 **Documentation & communication:** Created clear, user-focused documentation for both technical and non-technical users.  
+- 👥 **Inclusive system design** Built a cross-platform solution designed for diverse users, ensuring compatibility across Windows, macOS, and Linux environments.
 
 ## 🚀 Quick Start
 
