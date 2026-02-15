@@ -6,7 +6,7 @@ Sarah, a project manager at a marketing agency, spent **3 hours every Friday** m
 - 📂 Find and move all draft documents to a "Review" folder.
 - 🗄️ Archive completed projects from 2023.
 - 🖼️ Sort large image files from designers into separate folders.
-- 🖼️ Ensure nothing was deleted or misplaced.
+- ⚠️ Ensure nothing was deleted or misplaced.
 
 **The result?** 😓 Frustrated team members, delayed deliverables, and wasted time on repetitive tasks.
 
