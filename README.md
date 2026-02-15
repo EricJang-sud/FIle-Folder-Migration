@@ -1,5 +1,7 @@
 # File & Folder Migration Tool
 
+A Python automation tool that transforms hours of manual file and folder sorting into fast, reliable, and scalable organization completed in seconds.
+
 ## 🎯 The Problem
 
 Sarah, a project manager at a marketing agency, spent **3 hours every Friday** manually organizing client files. She had to:
@@ -12,7 +14,7 @@ Sarah, a project manager at a marketing agency, spent **3 hours every Friday** m
 
 ## ✅ The Solution
 
-A Python automation tool that organizes and moves files or folders using customizable rules, turning hours of manual sorting into seconds while helping individuals and teams save time and reduce clutter.
+A Python automation tool that organizes and moves files or folders using customizable rules, turning **hours of manual sorting into seconds** while helping individuals and teams save time and reduce clutter.
 
 **How it works:**
 1. 🎯 Set your criteria (e.g., file names, types, sizes, folder names).
