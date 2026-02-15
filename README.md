@@ -3,7 +3,7 @@
 A Python-powered tool that quickly organizes files and folders, turning hours of manual sorting into a few seconds of automated, accurate work.
 
 <p align="center">
-  <img src="assets/Before-After_Folder Analysis Report Generator_Gemini.png" width="700" alt="Before and After Comparison">
+  <img src="assets/File_Folder Migration.png" width="700" alt="Before and After Comparison">
 </p>
 <p align="center">
   Image credit: Gemini
