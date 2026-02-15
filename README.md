@@ -1,6 +1,6 @@
 # File & Folder Migration Tool
 
-A Python automation tool that transforms hours of manual file and folder sorting into fast, reliable, and scalable organization completed in seconds.
+A Python-powered tool that quickly organizes files and folders, turning hours of manual sorting into a few seconds of automated, accurate work.
 
 ## 🎯 The Problem
 
