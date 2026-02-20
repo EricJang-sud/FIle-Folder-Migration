@@ -6,7 +6,7 @@ A Python-powered tool that quickly organizes files and folders, turning hours of
   <img src="assets/File_Folder Migration.png" width="700" alt="Before and After Comparison">
 </p>
 <p align="center">
-  Image credit: Gemini
+  Image credit: ChatGPT
 </p>
 
 ## 🎯 The Problem
